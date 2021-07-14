@@ -395,7 +395,7 @@
 }
 
 .stuff__card:nth-child(3) {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url("p3.jpg");
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url("pic3.jpg");
 }
 
 .stuff__card:nth-child(4) {
